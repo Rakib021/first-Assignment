@@ -91,6 +91,7 @@ padding-left:5%;
     font-weight: 700;
 
 }
+
 .single-experience{
     box-shadow:10px 30px 80px white;
     border-radius: 50px;
@@ -189,9 +190,29 @@ top: 2300px;
     left: 745px;
     top: 2300px;
 }
+.contact-me{
+    width:80%;
+    height:120px;
+    justify-content: center;
+    align-items: center;
+    background-color: #363958;
+    margin-left:100px;
+}
+.contact-me p{
+    color:dimgray;
+    font-size:30PX;
+    font-weight: bold;
+    border-bottom: 2px solid dimgray;
+    text-align: center;
+}
+.contact-me a{
+    margin-top:150px;
+    margin-left:400px;
+}
 .bye-bye{
     text-align: center;
 background-color: black;
 width:100%;
+margin-bottom: 500px;
     
 }
