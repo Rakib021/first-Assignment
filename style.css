@@ -54,6 +54,9 @@ h2{
     margin-bottom:20px;
     font-family: 'Bebas Neue', cursive;
 }
+h3{
+    margin-bottom:20px;
+}
 p{
     color:dimgray;
     margin-bottom:20px;
@@ -86,4 +89,51 @@ padding-left:5%;
     color:white;
     font-weight: 700;
 
+}
+.single-experience{
+    box-shadow:10px 30px 80px white;
+    border-radius: 50px;
+    height: 70%;
+}
+#gym{
+    border:10px solid whitesmoke;
+    margin-top: 20px;
+}
+#creative{
+    border:10px solid whitesmoke ;
+    margin-top: 20px;
+}
+#music{
+    border:10px solid whitesmoke ;
+    margin-top: 20px;
+}
+#text{
+    text-align: center;
+}.work-inquiry{
+background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+border-radius: 30px;
+
+position: absolute;
+width: 906px;
+height: 200px;
+left: 267px;
+top: 1716px;
+
+    
+}
+.work-inquiry h3{
+    
+    width: 400px;
+    height:64px;
+    margin-left:50px;
+    top:2000px;
+    line-height: 200px;
+    font-weight: bold;
+    font-size: 40px;
+    color:white;
+    display:inline;
+    
+}
+.work-inquiry a{
+    margin-left: 250px;
 }
