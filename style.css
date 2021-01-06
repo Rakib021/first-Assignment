@@ -53,6 +53,7 @@ h2{
     font-size:45px ;
     margin-bottom:20px;
     font-family: 'Bebas Neue', cursive;
+    color:#4225B6;
 }
 h3{
     margin-bottom:20px;
@@ -94,7 +95,9 @@ padding-left:5%;
     box-shadow:10px 30px 80px white;
     border-radius: 50px;
     height: 70%;
+
 }
+
 #gym{
     border:10px solid whitesmoke;
     margin-top: 20px;
@@ -136,4 +139,59 @@ top: 1716px;
 }
 .work-inquiry a{
     margin-left: 250px;
+}
+.last-section{
+    width: 906px;
+height: 200px;
+left: 267px;
+top: 1716px;
+    
+}
+.last-section p{
+    
+    width: 400px;
+    height:64px;
+    margin-left:400px;
+    top:100px;
+    line-height:100px;
+    font-weight: bold;
+    text-align: center;
+}
+.last-section h2{
+    
+    width: 400px;
+    height:64px;
+    margin-left:400px;
+    top:20px;
+    line-height: 1;
+    font-weight: bold;
+    text-align: center;
+}
+#icons1{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 635px;
+top: 2300px;
+
+}
+#icons2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 690px;
+    top: 2300px;
+}
+#icons3{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 745px;
+    top: 2300px;
+}
+.bye-bye{
+    text-align: center;
+background-color: black;
+width:100%;
+    
 }
